@@ -38,7 +38,7 @@ const Success = ({ navigation }) => {
         <View style={{ flexDirection: 'row', }}>
           <TouchableOpacity onPress={() => navigation.navigate('Home')}>
             <View style={style.View2}>
-              <Text style={style.Pesan}>Pesan Sekarang</Text>
+              <Text style={style.Pesan}>Selesai</Text>
             </View>
           </TouchableOpacity>
         </View>
